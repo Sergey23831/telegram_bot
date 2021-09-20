@@ -1,1 +1,1 @@
-start project telegram bot based on a "telebot" library
+start project telegram bot based on a "pyTelegramBotAPI" library
